@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white
+}
+
+h1 {
+    font-family: 'Genos', sans-serif;
+    font-size: 3rem;
+}
+
+.hero {
+    margin: 20% 0% 0% 0%
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+
+.terminal-style {
+    margin: 20% 5% 5% 5%;
+    height: auto;
+    width: auto;
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 5px;
+    
+}
+
+
+.traffic-lights {
+    border: none;
+    height: 20px;
+    width: 100%;
+    display:flex
+}
+
+.red {
+    border: none;
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.yellow {
+    border: none;
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.green {
+    border: none;
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.terminalText{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+
+}
+
+.command{
+    color:yellow;
+    font-weight: 900;
+}
+
+
+.answers{
+    color:green;
+    font-weight: 900;
+}
+
+p{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.block{
+    border-color: aliceblue;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    margin-left: 6px;
+    height: auto;
+    background-color: aliceblue;
+    width: 10px;
+}
+
+.lastLine{
+    display: flex;
+}
+
+
+footer p{
+    font-family: 'Genos', sans-serif;
+    font-size: 1.5rem;
+}
