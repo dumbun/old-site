@@ -45,12 +45,12 @@ h3 {
     margin-top: 10px;
     margin-left: 10px;
 }
-.yellow {
+.orange {
     border: none;
     height: 15px;
     width: 15px;
     border-radius: 100%;
-    background-color: yellow;
+    background-color: orange;
     margin-top: 10px;
     margin-left: 10px;
 }
